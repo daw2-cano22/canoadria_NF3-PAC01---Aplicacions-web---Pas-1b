@@ -1,0 +1,3 @@
+Hello, log!
+2022-03-02 19:15:56	Logger::INFO	The value of fooid is 5	
+2022-03-02 19:15:57	Logger::INFO	UPDATE "system_user" SET "first_name" = :FirstName, "last_name" = :LastName, INSERT - INSERT INTO "system_user"("first_name", "last_name", "date_account_created", UPDATE - UPDATE "system_user" SET "first_name" = :FirstName, "last_name" = :LastName

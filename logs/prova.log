@@ -1,0 +1,14 @@
+2022-03-02 11:08:33	Logger::CRITICAL	No fooid supplied	Foo Module
+2022-03-02 11:09:04	Logger::CRITICAL	No fooid supplied	Foo Module
+2022-03-02 11:09:05	Logger::CRITICAL	No fooid supplied	Foo Module
+2022-03-02 15:39:33	Logger::CRITICAL	No fooid supplied	Foo Module
+2022-03-02 15:39:56	Logger::INFO	The value of fooid is 5	
+2022-03-02 19:14:38	Logger::INFO	The value of fooid is 5	
+2022-03-02 19:15:53	Logger::INFO	The value of fooid is 5	
+2022-03-02 19:15:55	Logger::INFO	The value of fooid is 5	
+2022-03-02 19:15:55	Logger::INFO	The value of fooid is 5	
+2022-03-02 19:15:55	Logger::INFO	The value of fooid is 5	
+2022-03-02 19:15:55	Logger::INFO	The value of fooid is 5	
+2022-03-02 19:15:55	Logger::INFO	The value of fooid is 5	
+2022-03-02 19:15:56	Logger::INFO	The value of fooid is 5	
+2022-03-02 19:15:56	Logger::INFO	The value of fooid is 5	
